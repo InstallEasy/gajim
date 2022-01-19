@@ -14,4 +14,4 @@ This script it works:
 
 ## For fast download and installation
 
-`bash <(https://raw.githubusercontent.com/InstallEasy/gajim/master/script.sh)`
+` bash <(curl -sL https://raw.githubusercontent.com/InstallEasy/gajim/master/script.sh)`
